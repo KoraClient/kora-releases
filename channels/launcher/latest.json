@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.1",
-    "notes":  "Kora Launcher 0.2.1: your accounts in Kora\u0027s game and in the launcher are one list; mods put in an instance\u0027s mods folder by hand show right away; a mod removed or switched off while you play is done when the game closes; a sign-in that stopped working shows in the account bar; Settings sits under Friends.",
-    "pub_date":  "2026-11-23T19:14:17Z",
+    "version":  "0.2.2",
+    "notes":  "Kora Launcher 0.2.2: the 3D scene behind Launch uses about half the CPU and GPU while it idles, and stands still when nobody is looking at Kora; High draws at the launcher\u0027s own size with the same look.",
+    "pub_date":  "2026-11-24T16:06:12Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSak84YThYZittL3d1aXFPdXpURmI3QzFxSXFpUkwraVVxenBLNDc3ODZjeVllcEtSMUQxWVg4UGFqNXhXenhDdG4zN1E5RmVCRTUremNGbE9lQkNOT2I4QlpqRXF5Z3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDYxMjU3CWZpbGU6S29yYSBMYXVuY2hlcl8wLjIuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjEKMTcwV2VaNlE0SXFtQ2R5Z1g0T2psYkR3UWh2RXBLdyt4SXNicDhQSWJFeU0ydW52Z2E4VGNod0orMklQR0V0RGpNejZUdk42Kzg3NEYreUNQaTBMQWc9PQo=",
-                                             "url":  "https://github.com/koraclient/kora-releases/releases/download/launcher-v0.2.1/kora-launcher_0.2.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSak84YThYZittLzBkTDE3SmJybndVN29udFpXUjhTY24reHF5SWFQSjNXMXRKTk9aZUJOVkNPSGNuTEp3TFF1cklRRFlOTVVZSy8xdUl1TmtwanB6RmZEOUJUWk1kT1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM2MzcyCWZpbGU6S29yYSBMYXVuY2hlcl8wLjIuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjIKKzdZcFkxdS8zSWZmai9ZajRpU0tCMTJKOTFIeDJQR2dRNzJDckYxb0NuM3dHd1VTdG5xM0x4TG95SVhqNmxKbnVaZGlsMHZqR2RSNEhoVWh2NGZPQVE9PQo=",
+                                             "url":  "https://github.com/koraclient/kora-releases/releases/download/launcher-v0.2.2/kora-launcher_0.2.2_x64-setup.exe"
                                          }
                   }
 }
