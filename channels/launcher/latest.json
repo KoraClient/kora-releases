@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.2",
-    "notes":  "Kora Launcher 0.2.2: the 3D scene behind Launch uses about half the CPU and GPU while it idles, and stands still when nobody is looking at Kora; High draws at the launcher\u0027s own size with the same look.",
-    "pub_date":  "2026-11-24T16:06:12Z",
+    "version":  "0.2.3",
+    "notes":  "Kora Launcher 0.2.3: Stop while Minecraft is still starting gives it up to 30 seconds to close by itself, so Kora no longer takes the stop for a Vulkan crash; when Kora has fallen back to OpenGL, the launcher says why, and Try Vulkan again brings Vulkan back.",
+    "pub_date":  "2026-11-24T21:43:11Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSak84YThYZittLzBkTDE3SmJybndVN29udFpXUjhTY24reHF5SWFQSjNXMXRKTk9aZUJOVkNPSGNuTEp3TFF1cklRRFlOTVVZSy8xdUl1TmtwanB6RmZEOUJUWk1kT1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM2MzcyCWZpbGU6S29yYSBMYXVuY2hlcl8wLjIuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjIKKzdZcFkxdS8zSWZmai9ZajRpU0tCMTJKOTFIeDJQR2dRNzJDckYxb0NuM3dHd1VTdG5xM0x4TG95SVhqNmxKbnVaZGlsMHZqR2RSNEhoVWh2NGZPQVE9PQo=",
-                                             "url":  "https://github.com/koraclient/kora-releases/releases/download/launcher-v0.2.2/kora-launcher_0.2.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSak84YThYZittLzFZV1pFUGc3SGprc0VNR0g3YTFBL20wVDhsR1RoYnZvM005RmRaanNXWDcwSGZ4dEZ5L1dZeUNtQ1AyNjBvdytiMnBMVU9BdTZucFViQ21yTzh4RndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTU2NTkxCWZpbGU6S29yYSBMYXVuY2hlcl8wLjIuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjMKMWhMWW42clNuR2M1aHBLWjdoUGdNMjY4SWdQcVZiZ21mRkNraXl0MWRrTkZod1pzbnR6eFVkaUlWaDdQdnkvMVlyUVlUeFhIcDF0RElJVmxNNk5pRFE9PQo=",
+                                             "url":  "https://github.com/koraclient/kora-releases/releases/download/launcher-v0.2.3/kora-launcher_0.2.3_x64-setup.exe"
                                          }
                   }
 }
