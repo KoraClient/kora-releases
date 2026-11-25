@@ -1,5 +1,5 @@
 {
-    "version":  "0.35.0",
-    "manifest":  "https://github.com/koraclient/kora-releases/releases/download/kora-1.8.9-v0.35.0/manifest.json",
-    "sha256":  "9659a838ec4ec0e95a6acbc9c5e11898d17541e805b6810b80f101d7ffca46f5"
+    "version":  "0.35.1",
+    "manifest":  "https://github.com/koraclient/kora-releases/releases/download/kora-1.8.9-v0.35.1/manifest.json",
+    "sha256":  "46978e015a6a6d261e0661afb314bb82d0f4b8a6d1c73ce67b860d08136f87ce"
 }
