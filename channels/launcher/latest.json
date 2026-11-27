@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.4",
-    "notes":  "Kora Launcher 0.2.4: the console keeps up with a game that logs thousands of lines a second (repeats are counted on one line), the window moves smoothly meanwhile, and the launcher goes back to idle as soon as Minecraft closes.",
-    "pub_date":  "2026-11-26T19:39:11Z",
+    "version":  "0.3.0",
+    "notes":  "Kora Launcher 0.3.0: Kora for Minecraft 1.21.11 next to 1.8.9, with its own instance, Fabric mods, Java 21 and updates; 1.8.9 works as before.",
+    "pub_date":  "2026-11-27T20:51:57Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSak84YThYZittLzErRnFZNUg1ckpkcWhyK25VMm9vSHJPK2RGMi9tYS9YbEtSZG9sRkJxSmRjdEJpcFNhbmpsL1Nycks1WldOb2pueWZSTlh1SG12TFV0aHRBODFuWEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzIxOTUxCWZpbGU6S29yYSBMYXVuY2hlcl8wLjIuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjQKNStQNnYraTA0SEVmcFMvNVN2K1dTTWN5Ry9MRm4zNVFEM1JtQnlDQ2RGYlJjU2UrRmJwOCtRVnl0TldnSUxSYmVkQ0t0TzV0QjZOb2k4UGRrMWFZQmc9PQo=",
-                                             "url":  "https://github.com/koraclient/kora-releases/releases/download/launcher-v0.2.4/kora-launcher_0.2.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSak84YThYZittLytuSjA5SVNxa2FlWXpsd1NVTDVwNDd3N2lqMVM3ZGhrM0E4anJKeGpxUkwxNVpoVmxXa3pYMVVydDJheVlPMWdLYVBmSzFMZG92MWw1aFdRV2pIWXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODEyNzE3CWZpbGU6S29yYSBMYXVuY2hlcl8wLjMuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjAKUUREU09Dd1g1czF1RHJrRXlPYlVOcjhraGlIbnBCcUNYN3I0amw2c3J4N1NDNVdNZUEvUTJMM3F0TjNzdytvdUdudjVrQ2dzME9KcTRLNUpGcjdHQVE9PQo=",
+                                             "url":  "https://github.com/koraclient/kora-releases/releases/download/launcher-v0.3.0/kora-launcher_0.3.0_x64-setup.exe"
                                          }
                   }
 }
